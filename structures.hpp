@@ -1,5 +1,3 @@
-#include <vector>
-
 class B;
 class C;
 class D;
